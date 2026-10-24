@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Project folders
+/claude/
+/data/
+/misc/
+
+# Secrets / environment
+.env
+
+# Large data files
+world_countries_50m.geojson
+threat_analyzer.db
